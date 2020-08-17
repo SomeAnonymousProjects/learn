@@ -168,5 +168,10 @@ body {
 
     padding: 1em;
     text-align: right;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
   }
 }

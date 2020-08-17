@@ -37,5 +37,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>PHP. Уровень 2</title>
+      <link>https://learn.vev.su/php/course4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/php/course4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP. Уровень 3</title>
+      <link>https://learn.vev.su/php/course5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/php/course5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHP. Уровень 4</title>
+      <link>https://learn.vev.su/php/course6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/php/course6/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
