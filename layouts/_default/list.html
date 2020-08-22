@@ -14,6 +14,7 @@
     {{ end }}
 
     {{ $title := .Title | default .Site.Title }}
+    <title>{{ $title }}</title>
     <meta property="og:title" content="{{ $title }}"/>
     <meta name="twitter:title" content="{{ $title }}"/>
     <meta itemprop="name" content="{{ $title }}"/>
@@ -39,10 +40,12 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 {{ end }}
+
 <header>
     <a href="{{ .Site.BaseURL }}" class="logo-link"><span>V</span><span>E</span><span>V</span></a>
     <h1>{{ .Title }}</h1>
 </header>
+
 <main class="course-list">
 {{ $sectionPages := where .Site.RegularPages "Section" .Section }}
 {{ if ge (len $sectionPages) 1 }}

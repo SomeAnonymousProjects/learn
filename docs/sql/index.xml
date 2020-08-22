@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Курсы по SQL on Образование</title>
+    <link>https://learn.vev.su/sql/</link>
+    <description>Recent content in Курсы по SQL on Образование</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    
+	<atom:link href="https://learn.vev.su/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Базы данных: SQL (DDL/DML)</title>
+      <link>https://learn.vev.su/sql/course10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/sql/course10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Базы данных: SQL (DQL)</title>
+      <link>https://learn.vev.su/sql/course11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/sql/course11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

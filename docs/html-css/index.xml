@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Курсы по HTML и CSS on Образование</title>
+    <link>https://learn.vev.su/html-css/</link>
+    <description>Recent content in Курсы по HTML и CSS on Образование</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    
+	<atom:link href="https://learn.vev.su/html-css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HTML и CSS. Уровень 1</title>
+      <link>https://learn.vev.su/html-css/course7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/html-css/course7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML и CSS. Уровень 2</title>
+      <link>https://learn.vev.su/html-css/course8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/html-css/course8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

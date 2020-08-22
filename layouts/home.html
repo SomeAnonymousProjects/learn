@@ -45,15 +45,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <main>
 <section>
-    <h2>IT и Digital</h2>
+    <!--h2>IT и Digital</h2-->
     {{ range .Site.Sections }}
+    {{ $cSection := .Section }}
         <article>
             <header>
                 <a href="{{ .Permalink }}" class="course-list-title">{{ .Title }}</a>
             </header>
             <div class="latest">
                 <ol>
-                    {{ range (first 5 (where .Site.RegularPages "Section" "php" | shuffle)) }}
+                    {{ range (first 5 (where .Site.RegularPages "Section" $cSection | shuffle)) }}
                     {{ if not .Params.hidden }}
                     <li><a href="{{ printf "%s/%s/" .Site.Params.storageMedia .Params.code }}" class="course-link">{{ .Title }}</a></li>
                     {{ end }}

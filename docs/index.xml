@@ -11,6 +11,33 @@
     
     
     <item>
+      <title>HTML и CSS. Уровень 1</title>
+      <link>https://learn.vev.su/html-css/course7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/html-css/course7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML и CSS. Уровень 2</title>
+      <link>https://learn.vev.su/html-css/course8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/html-css/course8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript. Уровень 2</title>
+      <link>https://learn.vev.su/javascript/course9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/javascript/course9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PHP. ООП</title>
       <link>https://learn.vev.su/php/course3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -61,6 +88,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://learn.vev.su/php/course6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Базы данных: SQL (DDL/DML)</title>
+      <link>https://learn.vev.su/sql/course10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/sql/course10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Базы данных: SQL (DQL)</title>
+      <link>https://learn.vev.su/sql/course11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://learn.vev.su/sql/course11/</guid>
       <description></description>
     </item>
     
